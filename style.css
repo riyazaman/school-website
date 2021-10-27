@@ -1,0 +1,107 @@
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.image{
+    width: 100%;
+}
+.g{
+    background-color: azure;
+}
+.but{
+    background-color: rgb(170, 23, 23);
+    color: rgb(26, 22, 22);
+    border-radius: 20px;
+}
+.a{ 
+    margin-top: 40px;
+}
+.b{
+    color: red;
+}
+span{
+    color: green;
+}
+
+
+
+#k{
+    border: none;
+}
+
+
+
+.footer{
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+    
+}
+
+.c{
+    background-color: black;
+    margin: 500px;
+}
+
+
+.card-body{
+    background-color: black;
+    color: #ffffff;
+}
+.d{
+    text-align: center;
+    margin-top: 30px;
+}
+.e{
+    text-align: center;
+}
+.f{
+    margin-top: 50px;
+}
+
+
+.h{
+    margin-top: 120px;
+    text-align: center;
+}
+
+.cat1{
+    background-color:azure;
+    padding: 10px 31px;
+}
+.cat2{
+    background-color: azure;
+    padding: 10px 31px;
+}
+.cat3{
+    background-color: azure;
+    padding: 10px 31px;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.catagories{
+    margin-top: 100PX;
+}
+.i{
+    margin-left: 60px;
+}
+.j{
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.l{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
